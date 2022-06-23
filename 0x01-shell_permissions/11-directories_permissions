@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d -exec chmod u+x {} +
+find dir0 dir1 dir2 -type d -exec chmod u+x {} +
